@@ -1,0 +1,44 @@
+
+h1{
+    font-size: 32px;
+    text-align: center;
+}
+
+button{
+    padding: 5px;
+    background-color: rgb(79, 146, 60);
+    color: white;
+    border-radius: 5px;
+    float: right;
+}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
+    width: 180px;
+}
+
+#main{
+    margin: 0 auto;
+    width: 250px;
+}
+
+li{
+    width: 250px;
+    list-style: none;
+    text-align: center;
+    margin: 10px 0;
+    padding: 5px 0;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+
+}
+
+li:hover{
+    background-color: red;
+}
+
+ul{
+    padding: 0;
+}
